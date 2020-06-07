@@ -1,6 +1,6 @@
 ---
 title: "Will this have quotation marks?"
-date: 2020-06-D07
+date: 2020-06-07
 ---
 
 I need to create my first blog post.
